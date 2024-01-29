@@ -19,8 +19,8 @@ https://github.com/kying18/tic-tac-toe
 ### Features:
 - Grid Play Area
 - Allows user option selection
-- human vs human
-- human vs computer
-- computer vs computer
+- Human vs Human
+- Human vs Computer
+- Computer vs Computer
 
 [Back to Top](#NoxPy)
